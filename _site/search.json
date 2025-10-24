@@ -47,5 +47,12 @@
     "title": "Nina Thècle Ahishakiye — MBA Portfolio",
     "section": "Global Experience & Languages",
     "text": "Global Experience & Languages\n\nInternational work across Africa & Europe\n\nLanguages: English, French, Kiswahili, Kirundi (Full proficiency)\n\n\n\nNotes for Publishing\n\nTo preview as a website locally:\nquarto preview nina-portfolio.qmd\nTo render to a standalone web page:\nquarto render nina-portfolio.qmd\nYou can publish the generated HTML to GitHub Pages, Netlify, or Vercel."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

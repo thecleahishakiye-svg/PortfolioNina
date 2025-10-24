@@ -3,6 +3,7 @@ project:
 
 website:
   title: "portfolionina"
+  site-url: https://thecleahishakiye-svg.github.io/PortfolioNina/
   navbar:
     left:
       - href: index.qmd

@@ -1,0 +1,83 @@
+---
+title: "Nina Thècle Ahishakiye — MBA Portfolio"
+author: "Nina Thècle Ahishakiye"
+format:
+  html:
+    theme: cosmo
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+page-layout: article
+lang: en
+---
+
+<!-- Optional brand header -->
+<div style="padding:1.2rem 1.4rem; border-radius:14px; background: linear-gradient(90deg, rgba(79,209,197,.15), rgba(167,139,250,.15)); border:1px solid rgba(0,0,0,.06);">
+  <h1 style="margin:.2rem 0">Nina Thècle Ahishakiye</h1>
+  <p style="margin:.2rem 0 .2rem 0;">MBA Candidate, University Canada West · Vancouver, Canada</p>
+  <p style="margin:.2rem 0;">
+    <a href="mailto:thecleahishakiye@gmail.com">thecleahishakiye@gmail.com</a> · 
+    <a href="tel:+16723553656">+1 672-355-3656</a> · 
+    <a href="#">LinkedIn (add link)</a>
+  </p>
+</div>
+
+## Profile Summary
+
+Strategic and solutions-driven **MBA Candidate** with 5+ years of experience in **project coordination**, **stakeholder engagement**, and **international development operations** across **34 countries** in Africa and the EU. Proven ability to deliver complex initiatives with efficiency, diplomacy, and strong cross-cultural communication. Passionate about **operational excellence**, public–private partnerships, and leveraging data-driven insights to strengthen organizational performance.
+
+## Core Competencies
+
+- Project Management & Execution · Data Analysis · Strategic Planning  
+- Leadership & Team Coordination · Process Improvement  
+- Research & Reporting · Stakeholder Relationship Management  
+- Multilingual Communication · Risk & Compliance Support  
+- Business Analytics · Event & Logistics Management
+
+## Professional Experience Highlights
+
+### Project Assistant & Liaison Officer — AML/CFT ESCAY (EU DG INTPA)
+
+- Coordinated multinational initiatives and represented stakeholders in **34 African countries** and EU member states.  
+- Led conference moderation, reporting, and operational file systems enhancing **efficiency and productivity**.  
+- Organized high-level missions, ensuring strong collaboration and timely delivery of project outputs.
+
+### Consultant, Research Analyst — Drolls & Associates
+
+- Conducted multinational market research and produced insights on **600+ pathology labs**, enabling strategic decisions in four European countries.
+
+### Department Lead, Language Training — Newbridge Connect
+
+- Launched **corporate French/English** programs and pioneered partnerships to expand international learning services.
+
+## Key Achievements
+
+- Supported policy-influencing **AML/CFT** initiatives in Eastern, Southern & Central Africa.  
+- Coordinated **five NGO fundraising projects** and expanded chapters across **four countries**.  
+- Delivered community health interventions in clinics and led **cholera outbreak** responses.
+
+## Education
+
+- **Master of Business Administration (MBA)** — University Canada West *(Ongoing)*  
+- **B.A. Community Health & Development** — The Catholic University of Eastern Africa  
+- **Professional Certificate:** Psychology & Peer Counselling
+
+## Global Experience & Languages
+
+- International work across **Africa & Europe**  
+- **Languages:** English, French, Kiswahili, Kirundi (Full proficiency)
+
+---
+
+### Notes for Publishing
+
+- To preview as a website locally:  
+  ```bash
+  quarto preview nina-portfolio.qmd
+  ```
+- To render to a standalone web page:  
+  ```bash
+  quarto render nina-portfolio.qmd
+  ```
+- You can publish the generated HTML to GitHub Pages, Netlify, or Vercel.
+

@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nina Thècle Ahishakiye — MBA Portfolio",
+    "section": "",
+    "text": "MBA Candidate, University Canada West · Vancouver, Canada\n\n\nthecleahishakiye@gmail.com · +1 672-355-3656 · LinkedIn (add link)"
+  },
+  {
+    "objectID": "index.html#profile-summary",
+    "href": "index.html#profile-summary",
+    "title": "Nina Thècle Ahishakiye — MBA Portfolio",
+    "section": "Profile Summary",
+    "text": "Profile Summary\nStrategic and solutions-driven MBA Candidate with 5+ years of experience in project coordination, stakeholder engagement, and international development operations across 34 countries in Africa and the EU. Proven ability to deliver complex initiatives with efficiency, diplomacy, and strong cross-cultural communication. Passionate about operational excellence, public–private partnerships, and leveraging data-driven insights to strengthen organizational performance."
+  },
+  {
+    "objectID": "index.html#core-competencies",
+    "href": "index.html#core-competencies",
+    "title": "Nina Thècle Ahishakiye — MBA Portfolio",
+    "section": "Core Competencies",
+    "text": "Core Competencies\n\nProject Management & Execution · Data Analysis · Strategic Planning\n\nLeadership & Team Coordination · Process Improvement\n\nResearch & Reporting · Stakeholder Relationship Management\n\nMultilingual Communication · Risk & Compliance Support\n\nBusiness Analytics · Event & Logistics Management"
+  },
+  {
+    "objectID": "index.html#professional-experience-highlights",
+    "href": "index.html#professional-experience-highlights",
+    "title": "Nina Thècle Ahishakiye — MBA Portfolio",
+    "section": "Professional Experience Highlights",
+    "text": "Professional Experience Highlights\n\nProject Assistant & Liaison Officer — AML/CFT ESCAY (EU DG INTPA)\n\nCoordinated multinational initiatives and represented stakeholders in 34 African countries and EU member states.\n\nLed conference moderation, reporting, and operational file systems enhancing efficiency and productivity.\n\nOrganized high-level missions, ensuring strong collaboration and timely delivery of project outputs.\n\n\n\nConsultant, Research Analyst — Drolls & Associates\n\nConducted multinational market research and produced insights on 600+ pathology labs, enabling strategic decisions in four European countries.\n\n\n\nDepartment Lead, Language Training — Newbridge Connect\n\nLaunched corporate French/English programs and pioneered partnerships to expand international learning services."
+  },
+  {
+    "objectID": "index.html#key-achievements",
+    "href": "index.html#key-achievements",
+    "title": "Nina Thècle Ahishakiye — MBA Portfolio",
+    "section": "Key Achievements",
+    "text": "Key Achievements\n\nSupported policy-influencing AML/CFT initiatives in Eastern, Southern & Central Africa.\n\nCoordinated five NGO fundraising projects and expanded chapters across four countries.\n\nDelivered community health interventions in clinics and led cholera outbreak responses."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nina Thècle Ahishakiye — MBA Portfolio",
+    "section": "Education",
+    "text": "Education\n\nMaster of Business Administration (MBA) — University Canada West (Ongoing)\n\nB.A. Community Health & Development — The Catholic University of Eastern Africa\n\nProfessional Certificate: Psychology & Peer Counselling"
+  },
+  {
+    "objectID": "index.html#global-experience-languages",
+    "href": "index.html#global-experience-languages",
+    "title": "Nina Thècle Ahishakiye — MBA Portfolio",
+    "section": "Global Experience & Languages",
+    "text": "Global Experience & Languages\n\nInternational work across Africa & Europe\n\nLanguages: English, French, Kiswahili, Kirundi (Full proficiency)\n\n\n\nNotes for Publishing\n\nTo preview as a website locally:\nquarto preview nina-portfolio.qmd\nTo render to a standalone web page:\nquarto render nina-portfolio.qmd\nYou can publish the generated HTML to GitHub Pages, Netlify, or Vercel."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

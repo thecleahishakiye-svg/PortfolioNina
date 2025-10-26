@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Nina Thècle Ahishakiye — MBA Portfolio",
     "section": "",
-    "text": "MBA Candidate, University Canada West · Vancouver, Canada\n\n\nthecleahishakiye@gmail.com · +1 672-355-3656 · LinkedIn (add link)"
+    "text": "&lt;div class=\"hero-left\"&gt;\n  &lt;h1 class=\"hero-title\"&gt;Nina Thècle Ahishakiye&lt;/h1&gt;\n  &lt;p class=\"hero-sub\"&gt;MBA Candidate · University Canada West · Vancouver, Canada&lt;/p&gt;\n  &lt;div class=\"social\"&gt;\n    &lt;a class=\"btn btn-primary btn-pill\" href=\"mailto:thecleahishakiye@gmail.com\" aria-label=\"Email\"&gt;\n      &lt;span class=\"bi bi-envelope\"&gt;&lt;/span&gt; Email\n    &lt;/a&gt;\n    &lt;a class=\"btn btn-outline-secondary btn-pill\" href=\"tel:+16723553656\" aria-label=\"Phone\"&gt;\n      &lt;span class=\"bi bi-telephone\"&gt;&lt;/span&gt; +1 672-355-3656\n    &lt;/a&gt;\n    &lt;a class=\"btn btn-outline-dark btn-pill\" href=\"https://www.linkedin.com/in/nina-thecle/\" target=\"_blank\" aria-label=\"LinkedIn\"&gt;\n      &lt;span class=\"bi bi-linkedin\"&gt;&lt;/span&gt; LinkedIn\n    &lt;/a&gt;\n  &lt;/div&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "index.html#profile-summary",
@@ -18,21 +18,21 @@
     "href": "index.html#core-competencies",
     "title": "Nina Thècle Ahishakiye — MBA Portfolio",
     "section": "Core Competencies",
-    "text": "Core Competencies\n\nProject Management & Execution · Data Analysis · Strategic Planning\n\nLeadership & Team Coordination · Process Improvement\n\nResearch & Reporting · Stakeholder Relationship Management\n\nMultilingual Communication · Risk & Compliance Support\n\nBusiness Analytics · Event & Logistics Management"
+    "text": "Core Competencies\n\n Project Management  Data Analysis  Process Improvement  Team Leadership  Research & Reporting  Risk & Compliance  Multilingual Communication  Business Analytics  Event & Logistics"
   },
   {
     "objectID": "index.html#professional-experience-highlights",
     "href": "index.html#professional-experience-highlights",
     "title": "Nina Thècle Ahishakiye — MBA Portfolio",
     "section": "Professional Experience Highlights",
-    "text": "Professional Experience Highlights\n\nProject Assistant & Liaison Officer — AML/CFT ESCAY (EU DG INTPA)\n\nCoordinated multinational initiatives and represented stakeholders in 34 African countries and EU member states.\n\nLed conference moderation, reporting, and operational file systems enhancing efficiency and productivity.\n\nOrganized high-level missions, ensuring strong collaboration and timely delivery of project outputs.\n\n\n\nConsultant, Research Analyst — Drolls & Associates\n\nConducted multinational market research and produced insights on 600+ pathology labs, enabling strategic decisions in four European countries.\n\n\n\nDepartment Lead, Language Training — Newbridge Connect\n\nLaunched corporate French/English programs and pioneered partnerships to expand international learning services."
+    "text": "Professional Experience Highlights\n\n\n&lt;div class=\"card-body\"&gt;\n  &lt;h3 class=\"card-title\"&gt;Project Assistant & Liaison Officer — AML/CFT ESCAY (EU DG INTPA)&lt;/h3&gt;\n  &lt;ul class=\"card-list\"&gt;\n    &lt;li&gt;Coordinated multinational initiatives and represented stakeholders in &lt;strong&gt;34 African countries&lt;/strong&gt; and EU member states.&lt;/li&gt;\n    &lt;li&gt;Led conference moderation, reporting, and operational file systems enhancing &lt;strong&gt;efficiency and productivity&lt;/strong&gt;.&lt;/li&gt;\n    &lt;li&gt;Organized high-level missions, ensuring strong collaboration and timely delivery of project outputs.&lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card-body\"&gt;\n  &lt;h3 class=\"card-title\"&gt;Consultant, Research Analyst — Drolls & Associates&lt;/h3&gt;\n  &lt;ul class=\"card-list\"&gt;\n    &lt;li&gt;Conducted multinational market research and produced insights on &lt;strong&gt;600+ pathology labs&lt;/strong&gt;, enabling strategic decisions in four European countries.&lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/div&gt;\n\n\n&lt;div class=\"card-body\"&gt;\n  &lt;h3 class=\"card-title\"&gt;Department Lead, Language Training — Newbridge Connect&lt;/h3&gt;\n  &lt;ul class=\"card-list\"&gt;\n    &lt;li&gt;Launched &lt;strong&gt;corporate French/English&lt;/strong&gt; programs and pioneered partnerships to expand international learning services.&lt;/li&gt;\n  &lt;/ul&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "index.html#key-achievements",
     "href": "index.html#key-achievements",
     "title": "Nina Thècle Ahishakiye — MBA Portfolio",
     "section": "Key Achievements",
-    "text": "Key Achievements\n\nSupported policy-influencing AML/CFT initiatives in Eastern, Southern & Central Africa.\n\nCoordinated five NGO fundraising projects and expanded chapters across four countries.\n\nDelivered community health interventions in clinics and led cholera outbreak responses."
+    "text": "Key Achievements\n\n\n&lt;span class=\"bi bi-globe2\"&gt;&lt;/span&gt;\n&lt;div&gt;\n  &lt;strong&gt;Regional Impact&lt;/strong&gt;\n  &lt;p&gt;Supported policy-influencing AML/CFT initiatives in Eastern, Southern & Central Africa.&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;span class=\"bi bi-people\"&gt;&lt;/span&gt;\n&lt;div&gt;\n  &lt;strong&gt;Community Leadership&lt;/strong&gt;\n  &lt;p&gt;Coordinated five NGO fundraising projects and expanded chapters across four countries.&lt;/p&gt;\n&lt;/div&gt;\n\n\n&lt;span class=\"bi bi-hospital\"&gt;&lt;/span&gt;\n&lt;div&gt;\n  &lt;strong&gt;Public Health&lt;/strong&gt;\n  &lt;p&gt;Delivered community health interventions and led cholera outbreak responses.&lt;/p&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "index.html#education",
@@ -46,13 +46,13 @@
     "href": "index.html#global-experience-languages",
     "title": "Nina Thècle Ahishakiye — MBA Portfolio",
     "section": "Global Experience & Languages",
-    "text": "Global Experience & Languages\n\nInternational work across Africa & Europe\n\nLanguages: English, French, Kiswahili, Kirundi (Full proficiency)\n\n\n\nNotes for Publishing\n\nTo preview as a website locally:\nquarto preview nina-portfolio.qmd\nTo render to a standalone web page:\nquarto render nina-portfolio.qmd\nYou can publish the generated HTML to GitHub Pages, Netlify, or Vercel."
+    "text": "Global Experience & Languages\n\nInternational work across Africa & Europe\n\nLanguages: English, French, Kiswahili, Kirundi (Full proficiency)\n\n\n\nDownloads & Links\n\n Download Résumé (PDF)\n LinkedIn Profile"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Nina",
     "section": "",
-    "text": "About this site"
+    "text": "I am an MBA Candidate at University Canada West with experience in project coordination, stakeholder engagement, and research across Africa and Europe. This page can include a short bio, focus areas, and contact details."
   }
 ]

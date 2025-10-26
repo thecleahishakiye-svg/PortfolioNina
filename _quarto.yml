@@ -4,18 +4,42 @@ project:
 
 website:
   title: "portfolionina"
-  site-url: https://thecleahishakiye-svg.github.io/PortfolioNina/
+  site-url: "https://thecleahishakiye-svg.github.io/PortfolioNina/"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+    right:
+      - icon: envelope
+        aria-label: "Email"
+        href: "mailto:thecleahishakiye@gmail.com"
+      - icon: telephone
+        aria-label: "Phone"
+        href: "tel:+16723553656"
+      - icon: linkedin
+        aria-label: "LinkedIn"
+        href: "https://www.linkedin.com/in/nina-thecle/"
+  page-footer:
+    left: "© {{< year >}} Nina Thècle Ahishakiye"
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/nina-thecle/"
+      - icon: envelope
+        href: "mailto:thecleahishakiye@gmail.com"
+  search: true
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: true
+    anchor-sections: true
 
-
-
+resources:
+  - styles.css
+  - assets/**

@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: "About Nina"
+page-layout: article
 ---
 
-About this site
+
+I am an MBA Candidate at University Canada West with experience in project coordination, stakeholder engagement, and research across Africa and Europe. This page can include a short bio, focus areas, and contact details.

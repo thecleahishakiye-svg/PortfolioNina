@@ -21,41 +21,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for syntax highlighting */
-html { -webkit-text-size-adjust: 100%; }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-  }
-pre.numberSource { margin-left: 3em;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
 </style>
 
 
@@ -110,7 +75,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -138,6 +103,23 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span class="menu-text">About</span></a>
   </li>  
 </ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="mailto:thecleahishakiye@gmail.com"> <i class="bi bi-envelope" role="img" aria-label="Email">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="tel:+16723553656"> <i class="bi bi-telephone" role="img" aria-label="Phone">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/nina-thecle/"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
 </div>
@@ -145,12 +127,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -159,7 +141,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     <div>
     <div class="quarto-title-meta-heading">Author</div>
@@ -177,70 +159,92 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </header>
 
 
-<!-- Optional brand header -->
-<div style="padding:1.2rem 1.4rem; border-radius:14px; background: linear-gradient(90deg, rgba(79,209,197,.15), rgba(167,139,250,.15)); border:1px solid rgba(0,0,0,.06);">
-<h1 style="margin:.2rem 0">
-Nina Thècle Ahishakiye
-</h1>
-<p style="margin:.2rem 0 .2rem 0;">
-MBA Candidate, University Canada West · Vancouver, Canada
-</p>
-<p style="margin:.2rem 0;">
-<a href="mailto:thecleahishakiye@gmail.com">thecleahishakiye@gmail.com</a> · <a href="tel:+16723553656">+1 672-355-3656</a> · <a href="#">LinkedIn (add link)</a>
-</p>
+<!-- HERO / INTRO -->
+<section class="hero">
+<div class="hero-inner">
+<pre><code>&lt;div class="hero-left"&gt;
+  &lt;h1 class="hero-title"&gt;Nina Thècle Ahishakiye&lt;/h1&gt;
+  &lt;p class="hero-sub"&gt;MBA Candidate · University Canada West · Vancouver, Canada&lt;/p&gt;
+  &lt;div class="social"&gt;
+    &lt;a class="btn btn-primary btn-pill" href="mailto:thecleahishakiye@gmail.com" aria-label="Email"&gt;
+      &lt;span class="bi bi-envelope"&gt;&lt;/span&gt; Email
+    &lt;/a&gt;
+    &lt;a class="btn btn-outline-secondary btn-pill" href="tel:+16723553656" aria-label="Phone"&gt;
+      &lt;span class="bi bi-telephone"&gt;&lt;/span&gt; +1 672-355-3656
+    &lt;/a&gt;
+    &lt;a class="btn btn-outline-dark btn-pill" href="https://www.linkedin.com/in/nina-thecle/" target="_blank" aria-label="LinkedIn"&gt;
+      &lt;span class="bi bi-linkedin"&gt;&lt;/span&gt; LinkedIn
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre>
 </div>
+</section>
 <section id="profile-summary" class="level2">
 <h2 class="anchored" data-anchor-id="profile-summary">Profile Summary</h2>
 <p>Strategic and solutions-driven <strong>MBA Candidate</strong> with 5+ years of experience in <strong>project coordination</strong>, <strong>stakeholder engagement</strong>, and <strong>international development operations</strong> across <strong>34 countries</strong> in Africa and the EU. Proven ability to deliver complex initiatives with efficiency, diplomacy, and strong cross-cultural communication. Passionate about <strong>operational excellence</strong>, public–private partnerships, and leveraging data-driven insights to strengthen organizational performance.</p>
 </section>
 <section id="core-competencies" class="level2">
 <h2 class="anchored" data-anchor-id="core-competencies">Core Competencies</h2>
-<ul>
-<li>Project Management &amp; Execution · Data Analysis · Strategic Planning<br>
-</li>
-<li>Leadership &amp; Team Coordination · Process Improvement<br>
-</li>
-<li>Research &amp; Reporting · Stakeholder Relationship Management<br>
-</li>
-<li>Multilingual Communication · Risk &amp; Compliance Support<br>
-</li>
-<li>Business Analytics · Event &amp; Logistics Management</li>
-</ul>
+<div class="pill-wrap">
+<p><span class="pill"><span class="bi bi-kanban"></span> Project Management</span> <span class="pill"><span class="bi bi-graph-up"></span> Data Analysis</span> <span class="pill"><span class="bi bi-bezier"></span> Process Improvement</span> <span class="pill"><span class="bi bi-people"></span> Team Leadership</span> <span class="pill"><span class="bi bi-journal-text"></span> Research &amp; Reporting</span> <span class="pill"><span class="bi bi-shield-check"></span> Risk &amp; Compliance</span> <span class="pill"><span class="bi bi-translate"></span> Multilingual Communication</span> <span class="pill"><span class="bi bi-cpu"></span> Business Analytics</span> <span class="pill"><span class="bi bi-geo-alt"></span> Event &amp; Logistics</span></p>
+</div>
 </section>
 <section id="professional-experience-highlights" class="level2">
 <h2 class="anchored" data-anchor-id="professional-experience-highlights">Professional Experience Highlights</h2>
-<section id="project-assistant-liaison-officer-amlcft-escay-eu-dg-intpa" class="level3">
-<h3 class="anchored" data-anchor-id="project-assistant-liaison-officer-amlcft-escay-eu-dg-intpa">Project Assistant &amp; Liaison Officer — AML/CFT ESCAY (EU DG INTPA)</h3>
-<ul>
-<li>Coordinated multinational initiatives and represented stakeholders in <strong>34 African countries</strong> and EU member states.<br>
-</li>
-<li>Led conference moderation, reporting, and operational file systems enhancing <strong>efficiency and productivity</strong>.<br>
-</li>
-<li>Organized high-level missions, ensuring strong collaboration and timely delivery of project outputs.</li>
-</ul>
-</section>
-<section id="consultant-research-analyst-drolls-associates" class="level3">
-<h3 class="anchored" data-anchor-id="consultant-research-analyst-drolls-associates">Consultant, Research Analyst — Drolls &amp; Associates</h3>
-<ul>
-<li>Conducted multinational market research and produced insights on <strong>600+ pathology labs</strong>, enabling strategic decisions in four European countries.</li>
-</ul>
-</section>
-<section id="department-lead-language-training-newbridge-connect" class="level3">
-<h3 class="anchored" data-anchor-id="department-lead-language-training-newbridge-connect">Department Lead, Language Training — Newbridge Connect</h3>
-<ul>
-<li>Launched <strong>corporate French/English</strong> programs and pioneered partnerships to expand international learning services.</li>
-</ul>
-</section>
+<div class="card-grid">
+<div class="card">
+<pre><code>&lt;div class="card-body"&gt;
+  &lt;h3 class="card-title"&gt;Project Assistant &amp; Liaison Officer — AML/CFT ESCAY (EU DG INTPA)&lt;/h3&gt;
+  &lt;ul class="card-list"&gt;
+    &lt;li&gt;Coordinated multinational initiatives and represented stakeholders in &lt;strong&gt;34 African countries&lt;/strong&gt; and EU member states.&lt;/li&gt;
+    &lt;li&gt;Led conference moderation, reporting, and operational file systems enhancing &lt;strong&gt;efficiency and productivity&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;Organized high-level missions, ensuring strong collaboration and timely delivery of project outputs.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="card">
+<pre><code>&lt;div class="card-body"&gt;
+  &lt;h3 class="card-title"&gt;Consultant, Research Analyst — Drolls &amp; Associates&lt;/h3&gt;
+  &lt;ul class="card-list"&gt;
+    &lt;li&gt;Conducted multinational market research and produced insights on &lt;strong&gt;600+ pathology labs&lt;/strong&gt;, enabling strategic decisions in four European countries.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="card">
+<pre><code>&lt;div class="card-body"&gt;
+  &lt;h3 class="card-title"&gt;Department Lead, Language Training — Newbridge Connect&lt;/h3&gt;
+  &lt;ul class="card-list"&gt;
+    &lt;li&gt;Launched &lt;strong&gt;corporate French/English&lt;/strong&gt; programs and pioneered partnerships to expand international learning services.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</code></pre>
+</div>
+</div>
 </section>
 <section id="key-achievements" class="level2">
 <h2 class="anchored" data-anchor-id="key-achievements">Key Achievements</h2>
-<ul>
-<li>Supported policy-influencing <strong>AML/CFT</strong> initiatives in Eastern, Southern &amp; Central Africa.<br>
-</li>
-<li>Coordinated <strong>five NGO fundraising projects</strong> and expanded chapters across <strong>four countries</strong>.<br>
-</li>
-<li>Delivered community health interventions in clinics and led <strong>cholera outbreak</strong> responses.</li>
-</ul>
+<div class="badge-grid">
+<div class="badge-card">
+<pre><code>&lt;span class="bi bi-globe2"&gt;&lt;/span&gt;
+&lt;div&gt;
+  &lt;strong&gt;Regional Impact&lt;/strong&gt;
+  &lt;p&gt;Supported policy-influencing AML/CFT initiatives in Eastern, Southern &amp; Central Africa.&lt;/p&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="badge-card">
+<pre><code>&lt;span class="bi bi-people"&gt;&lt;/span&gt;
+&lt;div&gt;
+  &lt;strong&gt;Community Leadership&lt;/strong&gt;
+  &lt;p&gt;Coordinated five NGO fundraising projects and expanded chapters across four countries.&lt;/p&gt;
+&lt;/div&gt;</code></pre>
+</div>
+<div class="badge-card">
+<pre><code>&lt;span class="bi bi-hospital"&gt;&lt;/span&gt;
+&lt;div&gt;
+  &lt;strong&gt;Public Health&lt;/strong&gt;
+  &lt;p&gt;Delivered community health interventions and led cholera outbreak responses.&lt;/p&gt;
+&lt;/div&gt;</code></pre>
+</div>
+</div>
 </section>
 <section id="education" class="level2">
 <h2 class="anchored" data-anchor-id="education">Education</h2>
@@ -260,14 +264,11 @@ MBA Candidate, University Canada West · Vancouver, Canada
 <li><strong>Languages:</strong> English, French, Kiswahili, Kirundi (Full proficiency)</li>
 </ul>
 <hr>
-<section id="notes-for-publishing" class="level3">
-<h3 class="anchored" data-anchor-id="notes-for-publishing">Notes for Publishing</h3>
+<section id="downloads-links" class="level3">
+<h3 class="anchored" data-anchor-id="downloads-links">Downloads &amp; Links</h3>
 <ul>
-<li><p>To preview as a website locally:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> preview nina-portfolio.qmd</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div></li>
-<li><p>To render to a standalone web page:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> render nina-portfolio.qmd</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div></li>
-<li><p>You can publish the generated HTML to GitHub Pages, Netlify, or Vercel.</p></li>
+<li><a class="btn btn-success btn-pill" href="assets/Nina_Ahishakiye_Resume.pdf" target="_blank"><span class="bi bi-file-earmark-arrow-down"></span> Download Résumé (PDF)</a></li>
+<li><a class="btn btn-outline-primary btn-pill" href="https://www.linkedin.com/in/nina-thecle/" target="_blank"><span class="bi bi-linkedin"></span> LinkedIn Profile</a></li>
 </ul>
 
 
@@ -367,6 +368,8 @@ MBA Candidate, University Canada West · Vancouver, Canada
             if (link.getAttribute("rel") === null) {
               link.setAttribute("rel", "noopener");
             }
+            // default icon
+            link.classList.add("external");
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

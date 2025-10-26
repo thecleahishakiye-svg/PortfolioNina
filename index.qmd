@@ -1,26 +1,36 @@
 ---
 title: "Nina Thècle Ahishakiye — MBA Portfolio"
 author: "Nina Thècle Ahishakiye"
+page-layout: full
 format:
   html:
-    theme: cosmo
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
-page-layout: article
+    link-external-icon: true
 lang: en
 ---
 
-<!-- Optional brand header -->
-<div style="padding:1.2rem 1.4rem; border-radius:14px; background: linear-gradient(90deg, rgba(79,209,197,.15), rgba(167,139,250,.15)); border:1px solid rgba(0,0,0,.06);">
-  <h1 style="margin:.2rem 0">Nina Thècle Ahishakiye</h1>
-  <p style="margin:.2rem 0 .2rem 0;">MBA Candidate, University Canada West · Vancouver, Canada</p>
-  <p style="margin:.2rem 0;">
-    <a href="mailto:thecleahishakiye@gmail.com">thecleahishakiye@gmail.com</a> · 
-    <a href="tel:+16723553656">+1 672-355-3656</a> · 
-    <a href="#">LinkedIn (add link)</a>
-  </p>
-</div>
+<!-- HERO / INTRO -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-left">
+      <h1 class="hero-title">Nina Thècle Ahishakiye</h1>
+      <p class="hero-sub">MBA Candidate · University Canada West · Vancouver, Canada</p>
+      <div class="social">
+        <a class="btn btn-primary btn-pill" href="mailto:thecleahishakiye@gmail.com" aria-label="Email">
+          <span class="bi bi-envelope"></span> Email
+        </a>
+        <a class="btn btn-outline-secondary btn-pill" href="tel:+16723553656" aria-label="Phone">
+          <span class="bi bi-telephone"></span> +1 672-355-3656
+        </a>
+        <a class="btn btn-outline-dark btn-pill" href="https://www.linkedin.com/in/nina-thecle/" target="_blank" aria-label="LinkedIn">
+          <span class="bi bi-linkedin"></span> LinkedIn
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
 
 ## Profile Summary
 
@@ -28,33 +38,76 @@ Strategic and solutions-driven **MBA Candidate** with 5+ years of experience in 
 
 ## Core Competencies
 
-- Project Management & Execution · Data Analysis · Strategic Planning  
-- Leadership & Team Coordination · Process Improvement  
-- Research & Reporting · Stakeholder Relationship Management  
-- Multilingual Communication · Risk & Compliance Support  
-- Business Analytics · Event & Logistics Management
+<div class="pill-wrap">
+  <span class="pill"><span class="bi bi-kanban"></span> Project Management</span>
+  <span class="pill"><span class="bi bi-graph-up"></span> Data Analysis</span>
+  <span class="pill"><span class="bi bi-bezier"></span> Process Improvement</span>
+  <span class="pill"><span class="bi bi-people"></span> Team Leadership</span>
+  <span class="pill"><span class="bi bi-journal-text"></span> Research & Reporting</span>
+  <span class="pill"><span class="bi bi-shield-check"></span> Risk & Compliance</span>
+  <span class="pill"><span class="bi bi-translate"></span> Multilingual Communication</span>
+  <span class="pill"><span class="bi bi-cpu"></span> Business Analytics</span>
+  <span class="pill"><span class="bi bi-geo-alt"></span> Event & Logistics</span>
+</div>
 
 ## Professional Experience Highlights
 
-### Project Assistant & Liaison Officer — AML/CFT ESCAY (EU DG INTPA)
+<div class="card-grid">
+  <div class="card">
+    <div class="card-body">
+      <h3 class="card-title">Project Assistant & Liaison Officer — AML/CFT ESCAY (EU DG INTPA)</h3>
+      <ul class="card-list">
+        <li>Coordinated multinational initiatives and represented stakeholders in <strong>34 African countries</strong> and EU member states.</li>
+        <li>Led conference moderation, reporting, and operational file systems enhancing <strong>efficiency and productivity</strong>.</li>
+        <li>Organized high-level missions, ensuring strong collaboration and timely delivery of project outputs.</li>
+      </ul>
+    </div>
+  </div>
 
-- Coordinated multinational initiatives and represented stakeholders in **34 African countries** and EU member states.  
-- Led conference moderation, reporting, and operational file systems enhancing **efficiency and productivity**.  
-- Organized high-level missions, ensuring strong collaboration and timely delivery of project outputs.
+  <div class="card">
+    <div class="card-body">
+      <h3 class="card-title">Consultant, Research Analyst — Drolls & Associates</h3>
+      <ul class="card-list">
+        <li>Conducted multinational market research and produced insights on <strong>600+ pathology labs</strong>, enabling strategic decisions in four European countries.</li>
+      </ul>
+    </div>
+  </div>
 
-### Consultant, Research Analyst — Drolls & Associates
-
-- Conducted multinational market research and produced insights on **600+ pathology labs**, enabling strategic decisions in four European countries.
-
-### Department Lead, Language Training — Newbridge Connect
-
-- Launched **corporate French/English** programs and pioneered partnerships to expand international learning services.
+  <div class="card">
+    <div class="card-body">
+      <h3 class="card-title">Department Lead, Language Training — Newbridge Connect</h3>
+      <ul class="card-list">
+        <li>Launched <strong>corporate French/English</strong> programs and pioneered partnerships to expand international learning services.</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 ## Key Achievements
 
-- Supported policy-influencing **AML/CFT** initiatives in Eastern, Southern & Central Africa.  
-- Coordinated **five NGO fundraising projects** and expanded chapters across **four countries**.  
-- Delivered community health interventions in clinics and led **cholera outbreak** responses.
+<div class="badge-grid">
+  <div class="badge-card">
+    <span class="bi bi-globe2"></span>
+    <div>
+      <strong>Regional Impact</strong>
+      <p>Supported policy-influencing AML/CFT initiatives in Eastern, Southern & Central Africa.</p>
+    </div>
+  </div>
+  <div class="badge-card">
+    <span class="bi bi-people"></span>
+    <div>
+      <strong>Community Leadership</strong>
+      <p>Coordinated five NGO fundraising projects and expanded chapters across four countries.</p>
+    </div>
+  </div>
+  <div class="badge-card">
+    <span class="bi bi-hospital"></span>
+    <div>
+      <strong>Public Health</strong>
+      <p>Delivered community health interventions and led cholera outbreak responses.</p>
+    </div>
+  </div>
+</div>
 
 ## Education
 
@@ -69,15 +122,7 @@ Strategic and solutions-driven **MBA Candidate** with 5+ years of experience in 
 
 ---
 
-### Notes for Publishing
+### Downloads & Links
 
-- To preview as a website locally:  
-  ```bash
-  quarto preview nina-portfolio.qmd
-  ```
-- To render to a standalone web page:  
-  ```bash
-  quarto render nina-portfolio.qmd
-  ```
-- You can publish the generated HTML to GitHub Pages, Netlify, or Vercel.
-
+- <a class="btn btn-success btn-pill" href="assets/Nina_Ahishakiye_Resume.pdf" target="_blank"><span class="bi bi-file-earmark-arrow-down"></span> Download Résumé (PDF)</a>
+- <a class="btn btn-outline-primary btn-pill" href="https://www.linkedin.com/in/nina-thecle/" target="_blank"><span class="bi bi-linkedin"></span> LinkedIn Profile</a>

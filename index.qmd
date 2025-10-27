@@ -1,128 +1,67 @@
 ---
-title: "Nina Thècle Ahishakiye — MBA Portfolio"
-author: "Nina Thècle Ahishakiye"
-page-layout: full
 format:
   html:
+    theme: cosmo
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
-    link-external-icon: true
+page-layout: article
 lang: en
 ---
 
-<!-- HERO / INTRO -->
-<section class="hero">
-  <div class="hero-inner">
-    <div class="hero-left">
-      <h1 class="hero-title">Nina Thècle Ahishakiye</h1>
-      <p class="hero-sub">MBA Candidate · University Canada West · Vancouver, Canada</p>
-      <div class="social">
-        <a class="btn btn-primary btn-pill" href="mailto:thecleahishakiye@gmail.com" aria-label="Email">
-          <span class="bi bi-envelope"></span> Email
-        </a>
-        <a class="btn btn-outline-secondary btn-pill" href="tel:+16723553656" aria-label="Phone">
-          <span class="bi bi-telephone"></span> +1 672-355-3656
-        </a>
-        <a class="btn btn-outline-dark btn-pill" href="https://www.linkedin.com/in/nina-thecle/" target="_blank" aria-label="LinkedIn">
-          <span class="bi bi-linkedin"></span> LinkedIn
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+ 
+<div style="text-align: center;">
+  <<img src="assets/nina-profile-square.jpg" alt="Nina Ahishakiye" class="hero-photo" />
 
-## Profile Summary
-
-Strategic and solutions-driven **MBA Candidate** with 5+ years of experience in **project coordination**, **stakeholder engagement**, and **international development operations** across **34 countries** in Africa and the EU. Proven ability to deliver complex initiatives with efficiency, diplomacy, and strong cross-cultural communication. Passionate about **operational excellence**, public–private partnerships, and leveraging data-driven insights to strengthen organizational performance.
-
-## Core Competencies
-
-<div class="pill-wrap">
-  <span class="pill"><span class="bi bi-kanban"></span> Project Management</span>
-  <span class="pill"><span class="bi bi-graph-up"></span> Data Analysis</span>
-  <span class="pill"><span class="bi bi-bezier"></span> Process Improvement</span>
-  <span class="pill"><span class="bi bi-people"></span> Team Leadership</span>
-  <span class="pill"><span class="bi bi-journal-text"></span> Research & Reporting</span>
-  <span class="pill"><span class="bi bi-shield-check"></span> Risk & Compliance</span>
-  <span class="pill"><span class="bi bi-translate"></span> Multilingual Communication</span>
-  <span class="pill"><span class="bi bi-cpu"></span> Business Analytics</span>
-  <span class="pill"><span class="bi bi-geo-alt"></span> Event & Logistics</span>
+</div>
+ 
+<h1 class="hero-name" style="text-align: center;">Nina Thecle Ahishakiye</h1>
+<p class="hero-role" style="text-align: center;">MBA Candidate · Operations Leader · </p>
+ 
+<div style="text-align: center; margin-bottom: 10px;">
+  <a href="mailto:thecleahishakiye@gmail.com" style="margin-right: 15px;">
+    <i class="bi bi-envelope-at"></i> Email
+  </a>
+  <a href="https://www.linkedin.com/in/nina-thecle/" target="_blank">
+    <i class="bi bi-linkedin"></i> LinkedIn
+  </a>
 </div>
 
-## Professional Experience Highlights
+## Bio
 
-<div class="card-grid">
-  <div class="card">
-    <div class="card-body">
-      <h3 class="card-title">Project Assistant & Liaison Officer — AML/CFT ESCAY (EU DG INTPA)</h3>
-      <ul class="card-list">
-        <li>Coordinated multinational initiatives and represented stakeholders in <strong>34 African countries</strong> and EU member states.</li>
-        <li>Led conference moderation, reporting, and operational file systems enhancing <strong>efficiency and productivity</strong>.</li>
-        <li>Organized high-level missions, ensuring strong collaboration and timely delivery of project outputs.</li>
-      </ul>
-    </div>
-  </div>
+Hi, I’m Nina Thècle Ahishakiye, a project operations and stakeholder engagement professional working at the intersection of development, governance, and global collaboration.
 
-  <div class="card">
-    <div class="card-body">
-      <h3 class="card-title">Consultant, Research Analyst — Drolls & Associates</h3>
-      <ul class="card-list">
-        <li>Conducted multinational market research and produced insights on <strong>600+ pathology labs</strong>, enabling strategic decisions in four European countries.</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="card">
-    <div class="card-body">
-      <h3 class="card-title">Department Lead, Language Training — Newbridge Connect</h3>
-      <ul class="card-list">
-        <li>Launched <strong>corporate French/English</strong> programs and pioneered partnerships to expand international learning services.</li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-## Key Achievements
-
-<div class="badge-grid">
-  <div class="badge-card">
-    <span class="bi bi-globe2"></span>
-    <div>
-      <strong>Regional Impact</strong>
-      <p>Supported policy-influencing AML/CFT initiatives in Eastern, Southern & Central Africa.</p>
-    </div>
-  </div>
-  <div class="badge-card">
-    <span class="bi bi-people"></span>
-    <div>
-      <strong>Community Leadership</strong>
-      <p>Coordinated five NGO fundraising projects and expanded chapters across four countries.</p>
-    </div>
-  </div>
-  <div class="badge-card">
-    <span class="bi bi-hospital"></span>
-    <div>
-      <strong>Public Health</strong>
-      <p>Delivered community health interventions and led cholera outbreak responses.</p>
-    </div>
-  </div>
-</div>
+I have 5 years of international experience leading coordination efforts across 34 countries in Eastern, Southern, and Central Africa, driving efficient project delivery, multi-stakeholder alignment, and high-quality reporting within complex environments.
+My work lies in creating order in high-impact spaces,  whether moderating multinational security conferences, streamlining systems that enhance productivity, or guiding culturally diverse teams toward shared goals.
+I am currently pursuing my MBA at University Canada West, strengthening my strategic and analytical capabilities to shape global initiatives through modern governance, operational excellence, and data-driven decision-making.
 
 ## Education
 
+
 - **Master of Business Administration (MBA)** — University Canada West *(Ongoing)*  
-- **B.A. Community Health & Development** — The Catholic University of Eastern Africa  
+- **B.Sc. Community Health & Development** — The Catholic University of Eastern Africa  
 - **Professional Certificate:** Psychology & Peer Counselling
 
-## Global Experience & Languages
 
-- International work across **Africa & Europe**  
-- **Languages:** English, French, Kiswahili, Kirundi (Full proficiency)
+## Professional Experience/ Highlights
+- Orchestrated high-level missions and engagements across Africa and the EU — improving collaboration and timely execution.
+- Managed research and analysis projects with actionable deliverables impacting 600+ healthcare institutions in East Europe.
+- Launched education and public health initiatives that impacted communities and supported disease outbreak response.
+
+## Key skills
+
+- Project Management & Execution
+- Strategic Planning  
+- Leadership & Team Coordination 
+- Stakeholder Relationship Management  
+-  Cross-cultural communication & Reoprting  
+- Event & Logistics Management
+- Research and Data Analysis
+
 
 ---
 
 ### Downloads & Links
 
-- <a class="btn btn-success btn-pill" href="assets/Nina_Ahishakiye_Resume.pdf" target="_blank"><span class="bi bi-file-earmark-arrow-down"></span> Download Résumé (PDF)</a>
-- <a class="btn btn-outline-primary btn-pill" href="https://www.linkedin.com/in/nina-thecle/" target="_blank"><span class="bi bi-linkedin"></span> LinkedIn Profile</a>
+<a class="btn btn-success btn-pill" href="assets/Nina_Ahishakiye_Resume.pdf" target="_blank"><span class="bi bi-file-earmark-arrow-down"></span> Download Résumé (PDF)</a>

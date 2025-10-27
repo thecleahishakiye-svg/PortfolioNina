@@ -1,1 +1,127 @@
-/* css styles */
+/* Executive Branding Colors */
+:root {
+  --navy: #001F3F;
+  --navy-light: #0b2a4a;
+  --gold: #C9A227;
+  --light-bg: #f6f7f9;
+  --card-radius: 16px;
+  --border: 1px solid rgba(0,0,0,.06);
+  --shadow: 0 10px 30px rgba(0,0,0,.07);
+}
+
+/* Global */
+body {
+  background-color: #ffffff;
+  color: var(--navy);
+  font-family: "Source Sans Pro", system-ui, sans-serif;
+}
+
+/* Navbar */
+.navbar {
+  background-color: var(--navy);
+  border-bottom: 3px solid var(--gold);
+}
+.navbar a.nav-link, .navbar-brand {
+  color: white !important;
+  font-weight: 600;
+}
+.navbar a.nav-link:hover {
+  color: var(--gold) !important;
+}
+
+/* Hero */
+.hero {
+  background: linear-gradient(135deg, var(--navy) 40%, var(--navy-light));
+  color: white;
+  border-radius: 16px;
+  padding: 2.4rem;
+  box-shadow: var(--shadow);
+  text-align: left;
+}
+.hero-title {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 800;
+}
+.hero-sub {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+/* Profile Photo */
+.hero-photo {
+  width: 165px;
+  height: 165px;
+  border-radius: 999px;
+  border: 3px solid var(--gold);
+  object-fit: cover;
+  margin-right: 1.2rem;
+  box-shadow: var(--shadow);
+  float: left;
+}
+
+/* Buttons */
+.btn-pill {
+  border-radius: 999px;
+  font-weight: 600;
+  padding: .5rem 1rem;
+}
+.btn-primary {
+  background-color: var(--gold);
+  border: none;
+  color: var(--navy);
+}
+.btn-primary:hover {
+  background-color: #d4b54b;
+}
+.btn-outline-secondary {
+  border-color: #fff;
+  color: #fff;
+}
+.btn-outline-secondary:hover {
+  background-color: #fff;
+  color: var(--navy);
+}
+.btn-outline-dark {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+.btn-outline-dark:hover {
+  background-color: var(--gold);
+  color: var(--navy);
+}
+
+/* Section Title */
+h2, h3 {
+  color: var(--navy);
+  font-weight: 700;
+  margin-top: 2rem;
+}
+
+/* Card Sections */
+.card-grid {
+  display: grid; 
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.2rem;
+  margin-top: 1rem;
+}
+.card {
+  background-color: var(--light-bg);
+  border: var(--border);
+  border-radius: var(--card-radius);
+  box-shadow: var(--shadow);
+}
+.card-body {
+  padding: 1.25rem;
+}
+.card-title {
+  font-size: 1.05rem;
+  color: var(--navy-light);
+}
+
+/* Footer */
+.page-footer {
+  background-color: var(--navy);
+  color: white;
+  border-top: 3px solid var(--gold);
+  padding: 1rem;
+}
